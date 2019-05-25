@@ -1,0 +1,14 @@
+.video-detail {
+  margin-bottom: 20px;
+}
+
+.video-detail .channel-title {
+  color: grey;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.video-detail .published-at {
+  color: grey;
+  font-size: 13px;
+}
